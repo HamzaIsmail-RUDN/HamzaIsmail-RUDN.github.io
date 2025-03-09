@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | My Site</title>
+    <link>https://hamzaismail-rudn.github.io/en/tags/academic/</link>
+      <atom:link href="https://hamzaismail-rudn.github.io/en/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamzaismail-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Academic</title>
+      <link>https://hamzaismail-rudn.github.io/en/tags/academic/</link>
+    </image>
+    
+    <item>
+      <title>Непрерывная интеграция и развертывание</title>
+      <link>https://hamzaismail-rudn.github.io/en/publication/01/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamzaismail-rudn.github.io/en/publication/01/</guid>
+      <description>&lt;h1 id=&#34;непрерывная-интеграция-и-непрерывное-развертывание-cicd&#34;&gt;Непрерывная интеграция и непрерывное развертывание (CI/CD)&lt;/h1&gt;
+&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;В современной разработке программного обеспечения важную роль играет автоматизация процессов разработки, тестирования и развертывания. Это позволяет командам работать быстрее, эффективнее и снижает вероятность ошибок. Одним из ключевых подходов к автоматизации является CI/CD.&lt;/p&gt;
+&lt;h2 id=&#34;что-такое-cicd&#34;&gt;Что такое CI/CD?&lt;/h2&gt;
+&lt;p&gt;CI/CD (Continuous Integration / Continuous Deployment) — это практика автоматизированной разработки и развертывания ПО, которая включает в себя:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Непрерывную интеграцию (CI)&lt;/strong&gt; — автоматическое объединение кода от разных разработчиков в общий репозиторий, с последующей проверкой и тестированием.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Непрерывную доставку (CD - Continuous Delivery)&lt;/strong&gt; — автоматизированный процесс подготовки кода к развертыванию.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Непрерывное развертывание (CD - Continuous Deployment)&lt;/strong&gt; — автоматическое развертывание проверенного кода в продакшн-среду без необходимости ручного вмешательства.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;преимущества-cicd&#34;&gt;Преимущества CI/CD&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Снижение количества ошибок&lt;/strong&gt;: автоматическое тестирование позволяет находить баги на ранних стадиях.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Быстрая доставка новых фич&lt;/strong&gt;: разработчики могут оперативно вносить изменения и выкатывать их в продакшн.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Повышение стабильности&lt;/strong&gt;: благодаря автоматизации развёртывания уменьшается вероятность человеческих ошибок.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Экономия времени&lt;/strong&gt;: CI/CD сокращает рутинные процессы и позволяет разработчикам сосредоточиться на коде.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;как-это-работает&#34;&gt;Как это работает?&lt;/h2&gt;
+&lt;p&gt;Процесс CI/CD можно представить в виде конвейера:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Разработчик делает изменения в коде и отправляет их в репозиторий.&lt;/li&gt;
+&lt;li&gt;CI-система запускает автоматизированные тесты, проверяя корректность кода.&lt;/li&gt;
+&lt;li&gt;При успешном прохождении тестов код автоматически собирается и развёртывается на тестовой или продакшн-среде.&lt;/li&gt;
+&lt;li&gt;Если что-то идёт не так, разработчики получают уведомления, а система может автоматически откатить изменения.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;CI/CD — это мощный инструмент, который помогает командам разработчиков ускорять процесс разработки, снижать количество ошибок и улучшать качество продукта. Автоматизация тестирования и развёртывания стала стандартом в современной индустрии и является ключевым элементом успешной DevOps-культуры.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://hamzaismail-rudn.github.io/en/post/01/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamzaismail-rudn.github.io/en/post/01/</guid>
+      <description>&lt;h1 id=&#34;итоги-недели-новые-знания-и-вызовы&#34;&gt;Итоги недели: новые знания и вызовы&lt;/h1&gt;
+&lt;p&gt;Эта неделя была насыщенной и продуктивной!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучил основы Docker и его использование для контейнеризации приложений.&lt;/li&gt;
+&lt;li&gt;Попробовал автоматизировать развёртывание тестового проекта с помощью GitHub Actions.&lt;/li&gt;
+&lt;li&gt;Разобрался с принципами работы HTTP/2 и его отличиями от HTTP/1.1.&lt;/li&gt;
+&lt;li&gt;Решил несколько сложных задач на алгоритмы, особенно понравилась тема динамического программирования.&lt;/li&gt;
+&lt;li&gt;Попробовал написать свой первый простой REST API с использованием FastAPI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Впереди ещё много интересного, планирую углубиться в Kubernetes и CI/CD!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

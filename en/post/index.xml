@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | My Site</title>
+    <link>https://hamzaismail-rudn.github.io/en/post/</link>
+      <atom:link href="https://hamzaismail-rudn.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamzaismail-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>https://hamzaismail-rudn.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://hamzaismail-rudn.github.io/en/post/01/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamzaismail-rudn.github.io/en/post/01/</guid>
+      <description>&lt;h1 id=&#34;итоги-недели-новые-знания-и-вызовы&#34;&gt;Итоги недели: новые знания и вызовы&lt;/h1&gt;
+&lt;p&gt;Эта неделя была насыщенной и продуктивной!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучил основы Docker и его использование для контейнеризации приложений.&lt;/li&gt;
+&lt;li&gt;Попробовал автоматизировать развёртывание тестового проекта с помощью GitHub Actions.&lt;/li&gt;
+&lt;li&gt;Разобрался с принципами работы HTTP/2 и его отличиями от HTTP/1.1.&lt;/li&gt;
+&lt;li&gt;Решил несколько сложных задач на алгоритмы, особенно понравилась тема динамического программирования.&lt;/li&gt;
+&lt;li&gt;Попробовал написать свой первый простой REST API с использованием FastAPI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Впереди ещё много интересного, планирую углубиться в Kubernetes и CI/CD!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
