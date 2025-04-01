@@ -5,12 +5,29 @@
     <link>https://hamzaismail-rudn.github.io/tags/markdown/</link>
       <atom:link href="https://hamzaismail-rudn.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hamzaismail-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Markdown</title>
       <link>https://hamzaismail-rudn.github.io/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://hamzaismail-rudn.github.io/post/03/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamzaismail-rudn.github.io/post/03/</guid>
+      <description>&lt;h1 id=&#34;-неделя-на-computer-science--коротко-и-по-сути&#34;&gt;📌 Неделя на Computer Science — коротко и по сути&lt;/h1&gt;
+&lt;p&gt;Рабочая неделя прошла стабильно, без авралов, но с упором на закрепление навыков:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔁 Алгоритмы: прошли жадные методы, решали задачи на покрытие и оптимизацию. Наконец-то начали укладываться в голове паттерны.&lt;/li&gt;
+&lt;li&gt;🗃️ На базах данных — SQL-запросы со вложенными SELECT&amp;rsquo;ами и индексами. Не без ошибок, но стало понятнее, что за что отвечает.&lt;/li&gt;
+&lt;li&gt;💡 Практика по Python: писали парсеры, разбирали архитектуру простого API. Впервые — почти production-уровень.&lt;/li&gt;
+&lt;li&gt;📑 Вспомнили, как важно нормально оформлять отчёты — и для себя, и для преподавателя. Краткость, структура и результат — лучшее комбо.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В целом — уверенный прогресс. Без резких скачков, но планомерно движемся вперёд.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
