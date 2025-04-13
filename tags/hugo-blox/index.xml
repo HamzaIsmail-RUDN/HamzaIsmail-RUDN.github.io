@@ -5,12 +5,30 @@
     <link>https://hamzaismail-rudn.github.io/tags/hugo-blox/</link>
       <atom:link href="https://hamzaismail-rudn.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hamzaismail-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://hamzaismail-rudn.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://hamzaismail-rudn.github.io/post/04/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamzaismail-rudn.github.io/post/04/</guid>
+      <description>&lt;h1 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h1&gt;
+&lt;p&gt;На этой неделе удалось немного прокачаться в нескольких направлениях:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔍 Завершил работу над лабораторной по дискретной математике — графы теперь точно не пугают.&lt;/li&gt;
+&lt;li&gt;💡 Разобрал несколько интересных задач на Python — начал лучше понимать, как писать более читаемый и эффективный код.&lt;/li&gt;
+&lt;li&gt;🧠 Прочитал статью про принципы DRY и KISS — задумался, как их можно применить в курсовом проекте.&lt;/li&gt;
+&lt;li&gt;🎓 Посетил дополнительную лекцию по алгоритмам — было полезно, особенно про жадные алгоритмы и динамическое программирование.&lt;/li&gt;
+&lt;li&gt;🤝 Поучаствовал в хакатоне внутри вуза — крутой опыт командной работы и распределения задач.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Понял, что важно не просто выполнять задания, а вникать в суть — тогда и прогресс ощущается иначе. На следующую неделю ставлю цель — закончить модуль по SQL и сделать ревью кода одногруппнику.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>

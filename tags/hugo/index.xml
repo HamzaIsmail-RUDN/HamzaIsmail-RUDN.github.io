@@ -5,7 +5,7 @@
     <link>https://hamzaismail-rudn.github.io/tags/hugo/</link>
       <atom:link href="https://hamzaismail-rudn.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hamzaismail-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo</title>
@@ -13,27 +13,42 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://hamzaismail-rudn.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamzaismail-rudn.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://hamzaismail-rudn.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamzaismail-rudn.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://hamzaismail-rudn.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamzaismail-rudn.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://hamzaismail-rudn.github.io/project/hugo/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamzaismail-rudn.github.io/project/hugo/</guid>
+      <description>&lt;p&gt;Создание персонального сайта — это эффективный способ представить результаты своей научной деятельности, поделиться публикациями, проектами и профессиональным опытом. Одним из популярных решений для этих целей является &lt;strong&gt;Hugo Academic&lt;/strong&gt; — современная тема для генератора статических сайтов &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, специально разработанная для учёных, преподавателей и исследователей.&lt;/p&gt;
+&lt;h2 id=&#34;почему-hugo-academic&#34;&gt;Почему Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic предлагает готовую структуру для сайта научного работника, включая:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Публикации с поддержкой BibTeX и формата CSL&lt;/li&gt;
+&lt;li&gt;Отображение исследовательских проектов и научных интересов&lt;/li&gt;
+&lt;li&gt;Автоматическое обновление информации с Google Scholar, ORCID, ResearchGate и других источников&lt;/li&gt;
+&lt;li&gt;Удобное ведение блога и размещение новостей&lt;/li&gt;
+&lt;li&gt;Адаптивный и современный дизайн&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Кроме того, Academic поддерживает мультиязычность, что делает его подходящим для международного академического сообщества.&lt;/p&gt;
+&lt;h2 id=&#34;возможности-сайта-на-hugo-academic&#34;&gt;Возможности сайта на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Сайт, созданный на Hugo Academic, может включать следующие разделы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Главная страница&lt;/strong&gt; с краткой информацией о вас&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Публикации&lt;/strong&gt;, представленные в удобном формате с фильтрацией по типу, дате и ключевым словам&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Проекты&lt;/strong&gt; и описание вашей исследовательской работы&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Преподавание&lt;/strong&gt;, где можно разместить материалы курсов и расписание занятий&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Блог&lt;/strong&gt; для научно-популярных и профессиональных записей&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Контакты&lt;/strong&gt;, включая формы обратной связи и ссылки на соцсети&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;преимущества-hugo-academic&#34;&gt;Преимущества Hugo Academic&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Простота обновления&lt;/strong&gt;: контент хранится в виде Markdown-файлов, что позволяет легко редактировать сайт без специальных знаний в области веб-разработки.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Производительность и безопасность&lt;/strong&gt;: статическая генерация сайта обеспечивает высокую скорость загрузки и устойчивость к атакам.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Гибкость дизайна&lt;/strong&gt;: множество настроек внешнего вида, возможность адаптации под личный стиль или корпоративную айдентику.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Интеграция с GitHub Pages, Netlify и другими платформами&lt;/strong&gt;: удобно размещать и обновлять сайт в несколько кликов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Hugo Academic — это мощный инструмент для создания профессионального академического портфолио. Он позволяет не только централизованно представить все научные достижения, но и повысить личный бренд в академической среде. Благодаря открытости и расширяемости, платформа подойдёт как начинающему исследователю, так и опытному профессору.&lt;/p&gt;
+&lt;p&gt;Если вы хотите делиться знаниями, рассказывать о своих исследованиях и быть на виду в научном сообществе — Hugo Academic станет отличным выбором для создания вашего персонального сайта.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
